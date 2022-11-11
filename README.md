@@ -2,7 +2,8 @@
 
 
 * Librairie float_plus par GUIRONNET Yannis
-* Tutoré par GROSSO Vincent  
+* Tutoré par GROSSO Vincent    
+
 Un float_plus est un flottant codé sur 32 bits, situé entre 0 et 1 codé sur le même principe que la norme IEEE754, et inévitablement plus précis car un float habituel se situe entre des bornes bien plus larges.  
 
 
