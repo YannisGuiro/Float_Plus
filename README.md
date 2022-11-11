@@ -1,5 +1,6 @@
-# Float_Plus
-Done in 2020 for the DUT validation internship
+# Float_Plus - FR
+
+Fait en 2020 dans le cadre du stage de validation de DUT
 
 * Librairie float_plus par GUIRONNET Yannis
 * Tutoré par GROSSO Vincent    
@@ -12,6 +13,11 @@ Ce float_plus possède 8 bits d'exposant, pour un exposant entre 0 et -255	et 24
 - Valeur maximum d'un float_plus  : 1  
 - Plus petite valeur dénormalisée : 1.727233814e-77  			             
 - Plus grande valeur dénormalisée : 0.9999999702  
+
+
+# Float_Plus - EN
+
+Done in 2020 for the DUT validation internship
 
 
 * Library float_plus by GUIRONNET Yannis
