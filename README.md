@@ -25,5 +25,3 @@ This float_plus has 8 bits of exponent, for an exponent between 0 and -255 and 2
 - Maximum value of a float_plus : 1  
 - Smallest denormalized value : 1.727233814e-77  			             
 - Biggest denormalized value : 0.9999999702  
-
-Translated with www.DeepL.com/Translator (free version)
